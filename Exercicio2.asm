@@ -18,6 +18,8 @@
 	li $t1, 80
 	bgt $t0, $t1, end
 	
+	
+	
 	#Encerra o programa
 	end:
 	li $v0,10
